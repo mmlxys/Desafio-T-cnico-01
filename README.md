@@ -8,7 +8,7 @@ int main()
     string resposta; // se escrever outra coisa tambem funciona mas não consegui arrumar isso
     string searchnome;
     
-   cout << ("Lupa: Quem esta procurando?")<< endl;
+   cout << ("Lupa: Quem esta procurando?")<< endl; // digitar nome gwen ou qualquer incitação de gwen stacey
    cin >> searchnome;
    
    cout<< ("Voce esta vistando o perfil de Gwendolyne Stacy")<< endl;

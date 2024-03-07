@@ -6,7 +6,7 @@ int main()
 { 
     string tecla;
     string resposta; // se escrever outra coisa tambem funciona mas não consegui arrumar isso
-    string searchnome
+    string searchnome;
     
    cout << ("Lupa: Quem esta procurando?")<< endl;
    cin >> searchnome;
